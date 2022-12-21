@@ -90,7 +90,7 @@ class Square:
     def __str__(self):
         """String representation of a Square instance
         Returns:
-            Formatted string representing the square
+            Formated string representing the square
         """
         if self.size == 0:
             return ""
